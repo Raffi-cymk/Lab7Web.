@@ -66,6 +66,7 @@ Menampilkan halaman default CodeIgniter 3 setelah instalasi berhasil. Hal ini me
 **Screenshot 90**
 
 Menampilkan akses halaman melalui URL menggunakan controller bawaan (Welcome). Halaman berhasil diakses melalui browser tanpa error.
+
 <img width="555" height="185" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/b0f77c5c-3857-47f3-b5ff-912bf7d42248" />
 
 
