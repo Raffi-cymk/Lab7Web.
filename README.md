@@ -116,6 +116,7 @@ $data['title'] = 'Halaman About';
 $data['content'] = 'Isi halaman dikirim dari controller.';
 
 Data kemudian ditampilkan di dalam view.
+
 <img width="511" height="395" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/1de17b6f-041c-4612-9183-ac54aaa79696" />
 
 
