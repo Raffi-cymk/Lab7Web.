@@ -112,3 +112,30 @@ Pembuatan layout template dengan memisahkan:
 * footer.php
 
 Template ini digunakan agar semua halaman memiliki struktur tampilan yang sama.
+
+**Screenshot 97**
+
+Tampilan akhir project setelah semua halaman berhasil dibuat:
+
+* Halaman About
+* Halaman Contact
+* Halaman FAQ
+
+Semua halaman menggunakan layout yang sama dan dapat diakses tanpa index.php di URL.
+
+---
+
+## 🔧 Konfigurasi Tambahan
+
+Penghilangan index.php dilakukan dengan:
+
+* Mengatur file .htaccess
+* Mengubah konfigurasi:
+$config['index_page'] = '';
+
+Hal ini membuat URL menjadi lebih bersih.
+
+## ✅ Kesimpulan
+
+Praktikum ini berhasil diselesaikan dengan baik. Aplikasi sederhana berbasis CodeIgniter 3 telah dibuat dengan menerapkan konsep MVC, routing, dan layout template.
+Semua halaman dapat diakses dengan normal tanpa error dan struktur project sudah sesuai dengan standar framework.
